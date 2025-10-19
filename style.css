@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 40px;
+  background-color: #fafafa;
+}
+
+video, img {
+  margin-top: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+img {
+  width: 10rem;
+  height:10rem;
+}
